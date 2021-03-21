@@ -6,3 +6,7 @@
   font-family: "Lucida Console";
   color:#e0ebeb
 }
+
+table, th, td {
+  border: 1px solid #f2f2f2;
+}
