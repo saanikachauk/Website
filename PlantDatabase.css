@@ -13,9 +13,11 @@ p {text-indent: 5em;}
 
 table, th, td {
   border: 1px solid black;
+  border-collapse: collapse;
 }
 
 table {
+  border-spacing: 5px;
   width: 90%;
 }
 
